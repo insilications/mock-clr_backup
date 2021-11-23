@@ -1,0 +1,1 @@
+%mock ALL = (root) NOPASSWD: /usr/bin/mock
